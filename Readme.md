@@ -1,1 +1,1 @@
-[Яндекс](https://ya.ru)
+[Гугл](https://google.com)
